@@ -33,15 +33,15 @@ I started studying at Tumo Labs GSL with the goal of deepening my knowledge in p
 <table style="width: 100%">
   <tr>
     <td>
-      <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=blackrainbowtest&show_icons=true&theme=react" alt="github stats" />
+      <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=FTerox&show_icons=true&theme=react" alt="github stats" />
     </td>
     <td>
-      <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrainbowtest&layout=compact&theme=react" alt="top languages" />
+      <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTerox&layout=compact&theme=react" alt="top languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrainbowtest&theme=react" alt="github stats" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FTerox&theme=react" alt="github stats" />
     </td>
   </tr>
 </table>
